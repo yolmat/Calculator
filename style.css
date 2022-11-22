@@ -17,17 +17,36 @@ body {
     align-items: center;
 }
 
-.result {
-    text-align: center;
+header {
     margin-top: 1vh;
 }
 
-.number {
+/*.result {
     display: flex;
+    width: 100%;
+    max-width: 500px;
     height: 25vh;
     font-size: 3.5rem;
     align-items: end;
     justify-content: end;
+}*/
+
+.result {
+    width: 100%;
+    max-width: 500px;
+    height: 26vh;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: end;
+    justify-content: end;
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+
+.previous {
+    display: flex;
+    font-size: 1.75rem;
+    font-weight: 100;
 }
 
 /*   GRID NAMES   */
@@ -60,8 +79,8 @@ body {
     grid-area: divided;
 }
 
-#comma {
-    grid-area: comma;
+#dot {
+    grid-area: dot;
 }
 
 #nine {
@@ -117,7 +136,7 @@ body {
         "seven eight nine times"
         "four five six minus"
         "one two three plus"
-        "zero zero comma equals"
+        "zero zero dot equals"
     ;
 
     max-width: 500px;
