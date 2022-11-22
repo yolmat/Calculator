@@ -21,16 +21,6 @@ header {
     margin-top: 1vh;
 }
 
-/*.result {
-    display: flex;
-    width: 100%;
-    max-width: 500px;
-    height: 25vh;
-    font-size: 3.5rem;
-    align-items: end;
-    justify-content: end;
-}*/
-
 .result {
     width: 100%;
     max-width: 500px;
@@ -131,7 +121,7 @@ header {
 
     gap: 2px;
 
-    grid-template-areas: 
+    grid-template-areas:
         "deletAll deletAll delet divided"
         "seven eight nine times"
         "four five six minus"
