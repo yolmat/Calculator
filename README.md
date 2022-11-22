@@ -2,7 +2,7 @@
 
 <a href="https://yolmat.github.io/Calculator/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">  :smiley: Teste voce mesmo || Test it yourself</a>
 
-<h2>Desktop</h2><img width="50%" src="./gitImg/CaptureInDesktop.png">
+<h2>Desktop</h2><img width="100%" src="./gitImg/CaptureInDesktop.png">
 
 <h2>Mobile</h2><img width="50%" src="./gitImg/CaptureInMobile.jpeg">
 
