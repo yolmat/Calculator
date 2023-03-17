@@ -1,4 +1,4 @@
-﻿# CurrencyConverter
+﻿# Calc
 
 <a href="https://yolmat.github.io/Calculator/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">  :smiley: Teste voce mesmo || Test it yourself</a>
 
